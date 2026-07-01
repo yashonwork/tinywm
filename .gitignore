@@ -1,0 +1,5 @@
+*.o
+config.h
+river-wm
+river-*-client-protocol.h
+river-*-protocol.c
